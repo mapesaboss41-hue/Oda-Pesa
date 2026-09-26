@@ -389,7 +389,988 @@ that material) supplement the terms of this License with terms:
 restrictions" within the meaning of section 10.  If the Program as you
 received it, or any part of it, contains a notice stating that it is
 governed by this License along with a term that is a further
-restriction, you may remove that term.  If a license document contains
+restriction, you may remove that term.  If a license document containsTENGENEZA WEBSITE KAMILI YA KISASA INAYOITWA:
+
+ODA PESA
+
+Tagline:
+Pokea Oda • Jibu Kazi • Fuatilia Malipo
+
+Website iwe mobile-first, professional, rahisi kutumia kwenye Android, iPhone na computer. Lugha kuu iwe Kiswahili.
+
+Tumia design ya kisasa yenye:
+
+- Blue
+- Dark blue
+- White
+- Cards zenye rounded corners
+- Icons rahisi
+- Buttons kubwa zinazofaa simu
+- Dashboard inayofanana na professional fintech/order platform
+
+Usiweke vitu vingi visivyohitajika. Interface iwe rahisi hata kwa mtu asiye mtaalamu wa teknolojia.
+
+---
+
+1. HOME PAGE
+
+Juu kuwe na logo:
+
+ODA PESA
+
+Tagline:
+
+Pokea Oda • Jibu Kazi • Fuatilia Malipo
+
+Maelezo:
+
+Oda Pesa ni platform inayowawezesha watumiaji kuona na kushughulikia majukumu ya oda, kutuma majibu ya oda na kufuatilia earnings zao baada ya kazi kuthibitishwa.
+
+Buttons:
+
+CREATE ACCOUNT
+
+LOGIN
+
+Section:
+
+JINSI ODA PESA INAVYOFANYA KAZI
+
+1. Jisajili
+2. Angalia oda zinazopatikana
+3. Chagua oda
+4. Soma maelekezo
+5. Jibu oda
+6. Oda ikithibitishwa, earning inaonekana kwenye balance
+7. Ukiwa na account iliyo-activate unaweza kuomba withdrawal
+
+Usiweke ahadi ya kipato cha uhakika.
+
+---
+
+2. CREATE ACCOUNT
+
+Mtumiaji aweze kujisajili kwa:
+
+- Full Name
+- Phone Number
+- Password
+- Confirm Password
+
+Button:
+
+CREATE ACCOUNT
+
+Baada ya registration mpeleke kwenye dashboard.
+
+Muhimu:
+
+Mtumiaji asihitaji kulipia activation ili kuona au kujibu oda.
+
+---
+
+3. USER DASHBOARD
+
+Baada ya kuingia, dashboard iwe na:
+
+WELCOME, [USER NAME]
+
+Cards:
+
+AVAILABLE ORDERS
+
+Idadi ya oda zinazopatikana.
+
+MY ORDERS
+
+Oda ambazo mtumiaji ameshughulikia.
+
+COMPLETED ORDERS
+
+Oda zilizothibitishwa.
+
+MY BALANCE
+
+Earnings zilizothibitishwa.
+
+Navigation:
+
+🏠 HOME
+
+📦 ORDERS
+
+💰 BALANCE
+
+📚 HOW TO WORK
+
+👤 PROFILE
+
+---
+
+4. AVAILABLE ORDERS
+
+Hii iwe sehemu muhimu na isiwe locked kwa sababu ya activation.
+
+Mtumiaji aliyejisajili aweze kuona oda na kujaribu kuzijibu hata kama bado hajalipia TSh 14,500.
+
+Kila order card iwe na:
+
+ORDER #1025
+
+Product:
+
+Laptop
+
+Location:
+
+Dar es Salaam
+
+Date:
+
+26 September 2026
+
+Reward:
+
+TSh XXXX
+
+Status:
+
+AVAILABLE
+
+Button:
+
+VIEW ORDER
+
+---
+
+5. PRODUCT CATEGORIES
+
+Tengeneza categories hizi:
+
+💻 Laptop
+
+📱 Smartphone
+
+🔊 Subwoofer
+
+📺 TV
+
+🖥️ Computer
+
+❄️ Fridge / Jokofu
+
+🍳 Electric Cooker
+
+💡 Electric Lights
+
+✨ Indoor & Outdoor Decorative Lights
+
+📻 Radio
+
+Kila category iwe na picha nzuri ya bidhaa.
+
+---
+
+6. ORDER DETAILS
+
+Mtumiaji akibonyeza VIEW ORDER, aone:
+
+- Order Number
+- Product
+- Customer Request
+- Quantity
+- Location
+- Date
+- Instructions
+- Reward
+- Order Status
+
+Button:
+
+RESPOND TO ORDER
+
+---
+
+7. RESPOND TO ORDER
+
+Mtumiaji aweze kujibu oda bila kuwa ame-activate account.
+
+Maelekezo:
+
+HATUA 1
+
+Soma ombi la mteja.
+
+HATUA 2
+
+Angalia bidhaa iliyoombwa.
+
+HATUA 3
+
+Thibitisha kama bidhaa inapatikana.
+
+HATUA 4
+
+Andika jibu kulingana na maelekezo.
+
+HATUA 5
+
+Submit response.
+
+Form:
+
+Response Message
+
+Product Availability
+
+Options:
+
+- AVAILABLE
+- NOT AVAILABLE
+- NEED MORE INFORMATION
+
+Button:
+
+SUBMIT RESPONSE
+
+Baada ya kutuma:
+
+RESPONSE SUBMITTED
+
+STATUS: AWAITING REVIEW
+
+---
+
+8. ORDER REWARD
+
+Kila oda inaweza kuwa na reward tofauti kulingana na order halisi.
+
+Mfano wa viwango vya mfumo:
+
+- Laptop — TSh 7,000
+- Smartphone — TSh 5,000
+- Subwoofer — TSh 4,500
+- TV — TSh 6,000
+- Computer — TSh 6,500
+- Fridge/Jokofu — TSh 7,000
+- Electric Cooker — TSh 4,000
+- Electric Lights — TSh 3,500
+- Indoor/Outdoor Lights — TSh 4,000
+- Radio — TSh 3,500
+
+Hizi rewards zitumike kama viwango vya mfumo tu ikiwa kuna chanzo halisi cha fedha kinachoweza kulipa kiasi hicho.
+
+Admin aweze kubadilisha reward ya kila order.
+
+---
+
+9. ORDER VERIFICATION
+
+Usiongeze earning kwenye balance mara tu mtumiaji anapobonyeza Submit.
+
+Flow iwe:
+
+USER RESPONDS
+
+↓
+
+RESPONSE UNDER REVIEW
+
+↓
+
+ADMIN/CUSTOMER VERIFIES RESPONSE
+
+↓
+
+ORDER COMPLETED
+
+↓
+
+EARNING CONFIRMED
+
+↓
+
+BALANCE UPDATED
+
+---
+
+10. MY BALANCE
+
+Dashboard iwe na:
+
+MY BALANCE
+
+TSh 0
+
+Cards:
+
+TOTAL EARNED
+
+PENDING EARNINGS
+
+COMPLETED ORDERS
+
+WITHDRAWN
+
+Earnings ziingie kwenye balance tu baada ya order kuthibitishwa.
+
+Usitumie fake balance.
+
+---
+
+11. WITHDRAW
+
+Mtumiaji akibonyeza:
+
+WITHDRAW
+
+Mfumo uangalie kwanza kama account ime-activate.
+
+Kama account haija-activate:
+
+Onyesha:
+
+🔒 ACTIVATION REQUIRED
+
+«Ili kuomba withdrawal, unatakiwa kwanza ku-activate account yako kwa TSh 14,500.»
+
+Button:
+
+ACTIVATE ACCOUNT
+
+Kama account ime-activate:
+
+Onyesha:
+
+- Amount
+- Mobile Network
+- Phone Number
+
+Button:
+
+REQUEST WITHDRAWAL
+
+Withdrawal status:
+
+- PENDING
+- APPROVED
+- PAID
+- REJECTED
+
+---
+
+12. ACCOUNT ACTIVATION
+
+Activation fee:
+
+TSh 14,500
+
+Maelezo:
+
+«Activation fee ni malipo ya ku-activate account na kupata access ya huduma zinazohusiana na platform. Malipo haya si guarantee ya kupata kiwango fulani cha kipato.»
+
+Muhimu:
+
+Mtumiaji hahitaji kulipa activation ili kuona au kujibu oda. Activation inahitajika wakati wa kutumia withdrawal kulingana na masharti ya platform.
+
+---
+
+13. PAYMENT METHODS
+
+Onyesha payment methods zote:
+
+🟠 AIRTEL MONEY
+
+1. Piga 15060#
+2. Chagua LIPIA BILL
+3. Chagua LIPA KWA SIMU / MITANDAO YOTE
+4. Chagua VODA LIPA
+5. Weka kiasi: 14,500 TZS
+6. Weka Lipa Namba/reference: 51330974
+7. Thibitisha jina:
+   MOSSES TECHNOLOGY HELP COMPANY LIMITED
+8. Ingiza PIN yako.
+
+---
+
+🟢 M-PESA
+
+1. Piga 15000#
+2. Chagua Lipa kwa M-Pesa
+3. Chagua Lipa kwa Simu
+4. Chagua Ingiza LIPA NAMBA
+5. Lipa Namba: 51330974
+6. Kiasi: 14,500 TZS
+7. Thibitisha jina:
+   MOSSES TECHNOLOGY HELP COMPANY LIMITED
+
+---
+
+🔵 TIGOPESA
+
+1. Piga 15001#
+2. Chagua Lipa kwa Simu
+3. Chagua Kwenda mitandao mingine
+4. Chagua M-Pesa
+5. Lipa Namba: 51330974
+6. Kiasi: 14,500 TZS
+7. Thibitisha jina:
+   MOSSES TECHNOLOGY HELP COMPANY LIMITED
+
+---
+
+🟣 HALOPESA
+
+1. Piga 15088#
+2. Chagua LIPIA BIDHAA
+3. Chagua TANQR LIPA HAPA
+4. Weka Lipa Namba: 51330974
+5. Weka kiasi: 14,500 TZS
+6. Thibitisha jina:
+   MOSSES TECHNOLOGY HELP COMPANY LIMITED
+7. Ingiza PIN yako.
+
+---
+
+14. PAYMENT VERIFICATION
+
+Baada ya kulipa, mtumiaji aone:
+
+TUMA UTHIBITISHO WA MALIPO
+
+Mtumiaji anatakiwa kutuma:
+
+1. Transaction/Reference Number
+2. Namba ya simu aliyotumia kufanya malipo
+3. Majina yaliyosajiliwa kwenye laini iliyotumika kulipia
+4. Kiasi kilicholipwa
+
+Tuma taarifa kupitia:
+
+WhatsApp au SMS: 0620222919
+
+Button:
+
+I HAVE PAID
+
+Pia button:
+
+CONTACT SUPPORT
+
+WhatsApp number:
+
+0620222919
+
+Baada ya kutuma payment information, website ionyeshe:
+
+PAYMENT STATUS: PENDING VERIFICATION
+
+Message:
+
+«Malipo yako yamepokelewa kwa ajili ya verification. Account ita-activate baada ya malipo kuthibitishwa na admin.»
+
+Usi-activate account automatically kwa sababu tu mtumiaji amebonyeza I HAVE PAID.
+
+---
+
+15. ADMIN PAYMENT VERIFICATION
+
+Admin dashboard iwe na sehemu:
+
+PAYMENT VERIFICATION
+
+Onyesha:
+
+- User Name
+- Phone Number
+- Payment Reference
+- Payment Amount
+- Payment Date
+- Payment Method
+- Status
+
+Statuses:
+
+PENDING
+
+VERIFIED
+
+REJECTED
+
+Buttons:
+
+VERIFY PAYMENT
+
+REJECT PAYMENT
+
+Admin akiverify:
+
+Account Status:
+
+ACTIVE
+
+---
+
+16. HOW TO RESPOND TO ORDERS
+
+Tengeneza sehemu ya mafunzo:
+
+JINSI YA KUJIBU ODA
+
+Hatua 1:
+Soma order.
+
+Hatua 2:
+Tambua bidhaa inayohitajika.
+
+Hatua 3:
+Angalia availability.
+
+Hatua 4:
+Andika response.
+
+Hatua 5:
+Submit response.
+
+Ongeza sehemu ya video/tutorial ambayo admin ataweza kuongeza baadaye.
+
+---
+
+17. MY ORDERS
+
+Tabs:
+
+ALL
+
+AVAILABLE
+
+IN PROGRESS
+
+COMPLETED
+
+REJECTED
+
+Kila order ionyeshe status.
+
+---
+
+18. PROFILE
+
+Mtumiaji aone:
+
+- Full Name
+- Phone Number
+- Account Status
+- Activation Status
+- Registration Date
+- Completed Orders
+- Total Confirmed Earnings
+
+Buttons:
+
+EDIT PROFILE
+
+LOGOUT
+
+---
+
+19. ADMIN DASHBOARD
+
+Tengeneza admin dashboard yenye:
+
+USERS
+
+- View users
+- Search users
+- Activate/suspend users
+
+ORDERS
+
+- Create order
+- Edit order
+- Delete order
+- Publish order
+- Close order
+- Verify response
+
+PAYMENTS
+
+- View payments
+- Verify payments
+- Reject payments
+
+BALANCES
+
+- View confirmed earnings
+- View pending earnings
+
+WITHDRAWALS
+
+- View withdrawal requests
+- Approve
+- Reject
+- Mark as PAID
+
+TRAINING
+
+- Add training
+- Edit training
+- Delete training
+
+PRODUCTS
+
+- Add product
+- Edit product
+- Delete product
+
+---
+
+20. CREATE ORDER – ADMIN
+
+Admin aweze kuingiza:
+
+- Order ID
+- Product
+- Product Category
+- Customer Request
+- Quantity
+- Location
+- Date
+- Reward
+- Instructions
+- Order Status
+- Source/Reference
+- Admin Notes
+
+Order iwe na unique ID.
+
+---
+
+21. REAL ORDER SOURCE
+
+Mfumo utengenezwe ili orders ziingie kutoka kwa:
+
+CUSTOMER ORDER FORM
+
+Mteja aweze kuingia kwenye website na kubonyeza:
+
+TUMA ODA
+
+Form:
+
+- Full Name
+- Phone Number
+- Product
+- Quantity
+- Location
+- Description
+- Preferred Contact Method
+
+Button:
+
+SUBMIT ORDER
+
+Order iingie kwenye Admin Dashboard.
+
+Admin aipitie na kuifanya AVAILABLE.
+
+---
+
+22. CUSTOMER ORDER EMAIL
+
+Kila order mpya itumwe pia kwenye email ya admin/business.
+
+Email iwe na:
+
+NEW ORDER RECEIVED
+
+- Order ID
+- Customer Name
+- Phone
+- Product
+- Quantity
+- Location
+- Description
+- Date
+
+Mfumo uwe tayari kuunganishwa na email service/API halisi.
+
+Usitumie email ya kubuni.
+
+---
+
+23. ORDER FLOW
+
+Mfumo mkuu uwe:
+
+CUSTOMER SUBMITS ORDER
+
+↓
+
+ORDER RECEIVED
+
+↓
+
+ADMIN REVIEWS ORDER
+
+↓
+
+ORDER BECOMES AVAILABLE
+
+↓
+
+USER VIEWS ORDER
+
+↓
+
+USER RESPONDS
+
+↓
+
+RESPONSE REVIEWED
+
+↓
+
+ORDER COMPLETED
+
+↓
+
+EARNING CONFIRMED
+
+↓
+
+BALANCE UPDATED
+
+↓
+
+USER REQUESTS WITHDRAWAL
+
+↓
+
+SYSTEM CHECKS ACCOUNT ACTIVATION
+
+↓
+
+IF NOT ACTIVE:
+
+ACTIVATE ACCOUNT — TSh 14,500
+
+↓
+
+USER PAYS
+
+↓
+
+USER SENDS PAYMENT REFERENCE TO 0620222919 VIA WHATSAPP/SMS
+
+↓
+
+ADMIN VERIFIES PAYMENT
+
+↓
+
+ACCOUNT ACTIVE
+
+↓
+
+WITHDRAWAL ENABLED
+
+---
+
+24. SECURITY
+
+Implement:
+
+- Secure authentication
+- Password hashing
+- Admin authentication
+- Protected admin dashboard
+- Server-side validation
+- Prevent users from editing their balance
+- Prevent users from approving their own payments
+- Prevent users from approving their own withdrawals
+- Payment verification by admin/API
+- Spam protection
+- Input validation
+- Unique Order IDs
+
+---
+
+25. TRUST & TRANSPARENCY
+
+USIWEKE:
+
+- Fake testimonials
+- Fake earnings
+- Fake payment screenshots
+- Fake orders
+- Fake user counts
+- Fake withdrawal proofs
+- Guaranteed income claims
+
+Kama data ni demo, label:
+
+DEMO
+
+Kama data ni halisi, itoke kwenye database.
+
+---
+
+26. SUPPORT
+
+Weka sehemu:
+
+CUSTOMER SUPPORT
+
+WhatsApp:
+
+0620222919
+
+Buttons:
+
+CHAT ON WHATSAPP
+
+SEND SMS
+
+---
+
+27. FOOTER
+
+ODA PESA
+
+Pokea Oda • Jibu Kazi • Fuatilia Malipo
+
+Links:
+
+- About
+- How It Works
+- Orders
+- Terms & Conditions
+- Privacy Policy
+- Contact
+- Support
+
+---
+
+28. MOBILE NAVIGATION
+
+Bottom navigation:
+
+🏠 Home
+
+📦 Orders
+
+💰 Balance
+
+📚 Training
+
+👤 Profile
+
+Buttons ziwe kubwa na rahisi kubonyeza.
+
+---
+
+29. DATABASE STRUCTURE
+
+Tengeneza database tables/collections:
+
+Users
+
+Orders
+
+OrderResponses
+
+Payments
+
+Balances
+
+Withdrawals
+
+Products
+
+Training
+
+AdminUsers
+
+SupportRequests
+
+Kila user awe na unique ID.
+
+Kila order iwe na unique Order ID.
+
+Kila payment iwe na unique payment record.
+
+---
+
+30. IMPORTANT LOGIC
+
+Mtumiaji:
+
+ANAWEZA KUONA ODA
+
+ANAWEZA KUJIBU ODA
+
+ANAWEZA KUONA RESPONSE STATUS
+
+ANAWEZA KUONA EARNINGS ZILIZOTHIBITISHWA
+
+Lakini:
+
+HAWEZI KUTOA PESA BILA ACCOUNT KUWA ACTIVE.
+
+Activation:
+
+TSh 14,500
+
+Payment verification:
+
+Lipa Namba 51330974
+
+Payment name:
+
+MOSSES TECHNOLOGY HELP COMPANY LIMITED
+
+Payment confirmation/support:
+
+0620222919 kupitia WhatsApp au SMS
+
+---
+
+31. FINAL UI STYLE
+
+Make the website look like a real modern mobile platform.
+
+Brand name:
+
+ODA PESA
+
+Use:
+
+Blue + Dark Blue + White
+
+Modern cards
+
+Clean dashboard
+
+Simple icons
+
+Large buttons
+
+Professional spacing
+
+Fast loading
+
+Mobile-first design
+
+No unnecessary animations.
+
+The first thing the user should understand is:
+
+“Hapa naweza kuona oda, kujibu oda, kufuatilia kazi yangu na kuona earnings zilizothibitishwa.”
+
+Build the website with real functional navigation, authentication, database-ready architecture, admin dashboard, order management, payment verification workflow and withdrawal workflow.
+
+Do not create fake financial records or fake orders. If real backend/payment/email integrations are unavailable, clearly mark demo data as DEMO and prepare the integration points for a real backend.
 a further restriction but permits relicensing or conveying under this
 License, you may add to a covered work material governed by the terms
 of that license document, provided that the further restriction does
